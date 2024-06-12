@@ -3,14 +3,12 @@
 #include <stdlib.h>
 #include <time.h>
 
-// Hangi Öðrenci Kaç Basket Attý?
-
 using namespace std;
 
 int main() {
 	srand(time(NULL));
 	int sayi;
-	cout << "Ankara Universitesi Kas Basket Atti: ";
+	cout << "How many basket did the Ankara University score: ";
 	cin >> sayi;
 	int cemil, suat, yusuf, orhan, furkan, ahmet;
 	    cemil = rand() % sayi;

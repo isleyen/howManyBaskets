@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ahmet\\source\\repos\\howManyBaskets\\",
+  "WorkspaceRootPath": "C:\\Users\\ahmet\\Documents\\GitHub\\howManyBaskets\\howManyBaskets\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C4258C4-6046-485C-81F7-B0516EB0844A}|howManyBaskets.vcxproj|C:\\Users\\ahmet\\source\\repos\\howManyBaskets\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4C4258C4-6046-485C-81F7-B0516EB0844A}|howManyBaskets.vcxproj|C:\\Users\\ahmet\\Documents\\GitHub\\howManyBaskets\\howManyBaskets\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4C4258C4-6046-485C-81F7-B0516EB0844A}|howManyBaskets.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\ahmet\\source\\repos\\howManyBaskets\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Documents\\GitHub\\howManyBaskets\\howManyBaskets\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\ahmet\\source\\repos\\howManyBaskets\\main.cpp",
+              "ToolTip": "C:\\Users\\ahmet\\Documents\\GitHub\\howManyBaskets\\howManyBaskets\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAnAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-12T22:49:18.002Z",
               "EditorCaption": ""
